@@ -1,4 +1,4 @@
-# bigdata-scout-platform
+# vue3-dev-template
 
 This template should help get you started developing with Vue 3 in Vite.
 
